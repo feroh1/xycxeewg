@@ -1,0 +1,9 @@
+{
+  "name": "pybue",
+  "version": "0.0.1",
+  "description": "running.",
+  "main": "main.py",
+  "scripts": {
+    "start": "python3 main.py"
+  }
+}
